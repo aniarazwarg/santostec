@@ -1,0 +1,12 @@
+				@font-face {
+					font-family: 'futura';
+					src: url('/santostec/wp-content/uploads/useanyfont/9197futura.woff2') format('woff2'),
+						url('/santostec/wp-content/uploads/useanyfont/9197futura.woff') format('woff');
+						font-weight: 100; font-style: normal; font-display: auto;
+				}
+
+				.futura{font-family: 'futura' !important;}
+
+				.et_gf_futura{background:none !important;font-family:futura;text-indent:0 !important;font-size:25px;}
+
+		
